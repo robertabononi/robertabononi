@@ -4,7 +4,7 @@
   <p>In 2018 I gratuaded in dentistry school, and in 2021 I concluded a career transition process to technology area. Now I'm focusing my studies in front-end development.</p>
   <p>Currently, I'm an intern at IBM in the GBS Associates Program and ready to learn as much as I can! ✨</p>
 
-  #### Well, that's a little bit about me! Hope you like follow my journey, studies and projects!
+  **Well, that's a little bit about me! Hope you like follow my journey, studies and projects!**
   
   <img height="180" src="https://thumbs.gfycat.com/DifferentAccomplishedAmazondolphin-size_restricted.gif">
   
